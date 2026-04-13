@@ -13,6 +13,7 @@
 
 static std::vector<std::string_view> options = {
   "New game",
+  "Saved worlds",
   "How to play",
   "About",
   "Quit"
