@@ -10,7 +10,7 @@ endif
 include $(DEVKITARM)/ds_rules
 
 GAME_TITLE := Minicraft DS Edition
-GAME_ICON := ../icon.bmp
+GAME_ICON := icon.bmp
 
 #---------------------------------------------------------------------------------
 # TARGET is the name of the output
