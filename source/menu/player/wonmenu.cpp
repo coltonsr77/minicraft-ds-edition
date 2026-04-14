@@ -5,5 +5,5 @@ WonMenu::WonMenu(int time, int score)
 
 void WonMenu::render(Screen& screen, Screen& bottomScreen)
 {
-  ResultsMenu::renderResults(screen, "You won! Yay!", "Press START to quit");
+  ResultsMenu::renderResults(screen, "You won!", "Press START to quit");
 }
