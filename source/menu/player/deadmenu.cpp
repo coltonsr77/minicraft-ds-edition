@@ -5,5 +5,5 @@ DeadMenu::DeadMenu(int time, int score)
 
 void DeadMenu::render(Screen& screen, Screen& bottomScreen)
 {
-  ResultsMenu::renderResults(screen, "You died! Aww!", "Press START to quit");
+  ResultsMenu::renderResults(screen, "You died!", "Press START to quit");
 }
